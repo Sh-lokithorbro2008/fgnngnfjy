@@ -1,0 +1,38 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color:#b0b6b9;
+}
+
+.header_div{
+    background-color: rgb(218, 39, 39);
+    color: rgb(0, 0, 0);
+}
+
+.header_div p{
+    font-family: fantasy;
+    color: rgb(22, 177, 30);
+    letter-spacing: 2px;
+    font-size:12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    background-color: rgb(228, 171, 17);
+    font-family: sans-serif;
+    margin-top:30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing:3px;
+}
+
+#copyright{
+    background-color:darkolivegreen;
+    color: fuchsia;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    font-size: 18px;
+    line-height:3;
+    text-shadow:5px 5px 5px firebrick;
+    position: fixed;
+}
